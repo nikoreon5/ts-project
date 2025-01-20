@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ts-project/static/css/main.49faa5e3.css",
+    "main.js": "/ts-project/static/js/main.d54598ae.js",
+    "index.html": "/ts-project/index.html",
+    "main.49faa5e3.css.map": "/ts-project/static/css/main.49faa5e3.css.map",
+    "main.d54598ae.js.map": "/ts-project/static/js/main.d54598ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49faa5e3.css",
+    "static/js/main.d54598ae.js"
+  ]
+}
