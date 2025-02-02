@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ts-project/static/css/main.717d285a.css",
-    "main.js": "/ts-project/static/js/main.0f6dca54.js",
+    "main.js": "/ts-project/static/js/main.ad4deb19.js",
     "static/media/bg.png": "/ts-project/static/media/bg.0a84779019e53044f534.png",
     "index.html": "/ts-project/index.html",
     "main.717d285a.css.map": "/ts-project/static/css/main.717d285a.css.map",
-    "main.0f6dca54.js.map": "/ts-project/static/js/main.0f6dca54.js.map"
+    "main.ad4deb19.js.map": "/ts-project/static/js/main.ad4deb19.js.map"
   },
   "entrypoints": [
     "static/css/main.717d285a.css",
-    "static/js/main.0f6dca54.js"
+    "static/js/main.ad4deb19.js"
   ]
 }
